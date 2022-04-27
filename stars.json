@@ -1,27 +1,27 @@
 [
   {
     "full_name": "SigNoz/signoz",
-    "stargazers_count": 6129,
-    "open_issues_count": 220,
-    "forks_count": 393
+    "stargazers_count": 6140,
+    "open_issues_count": 221,
+    "forks_count": 398
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 14321,
-    "open_issues_count": 64,
+    "stargazers_count": 14361,
+    "open_issues_count": 61,
     "forks_count": 1829
   },
   {
     "full_name": "atulmy/crate",
-    "stargazers_count": 2308,
+    "stargazers_count": 2309,
     "open_issues_count": 0,
-    "forks_count": 524
+    "forks_count": 523
   },
   {
     "full_name": "ohld/igbot",
-    "stargazers_count": 4179,
+    "stargazers_count": 4185,
     "open_issues_count": 35,
-    "forks_count": 1479
+    "forks_count": 1481
   },
   {
     "full_name": "geo242/angular-tawk-to",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "reek/anti-adblock-killer",
-    "stargazers_count": 5065,
+    "stargazers_count": 5068,
     "open_issues_count": 1939,
-    "forks_count": 735
+    "forks_count": 733
   },
   {
     "full_name": "sobingt/angular-node-seed",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "nodejs/node-v0.x-archive",
-    "stargazers_count": 34717,
+    "stargazers_count": 34715,
     "open_issues_count": 571,
-    "forks_count": 7542
+    "forks_count": 7540
   },
   {
     "full_name": "raveeshbhalla/startupmap",
@@ -81,7 +81,7 @@
     "full_name": "j-mcnally/PhoneGap-ios-PhoneDialer",
     "stargazers_count": 44,
     "open_issues_count": 2,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "sobingt/testgithub",
